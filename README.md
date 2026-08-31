@@ -747,17 +747,7 @@ It demonstrates:
 
 **[▶ Watch the Aster & Row Support Agent Demo](https://drive.google.com/file/d/1lfSSt-3gy7wT6tkTWIqihRsT_2ZwCkIs/view?usp=drive_link)**
 
-If using a GIF instead, place it at:
 
-```text
-demo/demo.gif
-```
-
-and embed it directly:
-
-```markdown
-![Aster & Row Support Agent Demo](demo/demo.gif)
-```
 
 ---
 

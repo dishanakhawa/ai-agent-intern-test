@@ -1,0 +1,7 @@
+.venv/
+.env
+derived/
+logs/
+__pycache__/
+*.pyc
+Cheatsheet.md

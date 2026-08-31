@@ -1,0 +1,6 @@
+openai
+python-dotenv
+pyyaml
+numpy
+pytest
+sentence-transformers
